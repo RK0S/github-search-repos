@@ -1,0 +1,14 @@
+.usersList {
+    display: grid;
+    grid-template-columns: 350px 350px 350px;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}

@@ -1,0 +1,17 @@
+.userItem {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border: 1px solid #131212;
+    padding: 15px;
+    border-radius: 5px;
+    width: 350px;
+    min-height: 150px;
+    cursor: pointer;
+}
+
+.img {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+}

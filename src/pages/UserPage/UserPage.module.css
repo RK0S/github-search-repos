@@ -1,0 +1,16 @@
+.avatar {
+    width: 200px;
+    height: 200px;
+    margin-bottom: 20px;
+}
+
+.information {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.list {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
